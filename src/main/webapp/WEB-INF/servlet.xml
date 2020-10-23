@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<servlets>
+    <servlet path="/login" className="xcf.practice.webserver.servlet.LoginServlet"/>
+    <servlet path="/reg" className="xcf.practice.webserver.servlet.RegServlet"/>
+    <servlet path="/showAllUser" className="xcf.practice.webserver.servlet.ShowAllUserServlet"/>
+</servlets>
